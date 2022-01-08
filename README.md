@@ -1,0 +1,4 @@
+- 👋 Heya!, I’m @hippo23. A random student from a random place, I just post most of my works that are coding-related here for a sort of documentation. I'm pretty bad at it right now, so don't go in expecting organized code 😅 But feel free to look around regardless! 
+- 👀 I’m interested in coding, music, sports, etc.
+- 🌱 I’m currently learning CS50 and The Odin Project / Highschool CS!
+- 💞️ I’m looking to collaborate on nothing as of now 😥
